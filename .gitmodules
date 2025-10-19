@@ -1,0 +1,6 @@
+[submodule "software/customer"]
+	path = software/customer
+	url = https://github.com/c4deszes/bike-electronics-system.git
+[submodule "software/lib/line-protocol"]
+	path = software/lib/line-protocol
+	url = https://github.com/c4deszes/bike-line-protocol.git

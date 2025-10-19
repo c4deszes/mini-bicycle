@@ -1,0 +1,1 @@
+C:\Tools\arduino-cli-0.34.2-win64\arduino-cli.exe compile project -b arduino:samd:arduino_zero_edbg --library lib/line-protocol --clean -u -p COM10
